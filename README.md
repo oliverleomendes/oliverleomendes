@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Leonardo (OliverLeoMendes)
+# 👋 Olá, eu sou o Leonardo Mendes
 
 🎓 Professor de Desenvolvimento Web e Mobile  
 💻 Apaixonado por tecnologia, ensino e inovação  
